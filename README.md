@@ -6,15 +6,23 @@ Welcome to my personal portfolio, a digital space where I showcase my academic j
 
 📁 Portfolio Sections
 🏠 Home: Introduction and overview of my professional profile
+
 👨‍💻 About Me: Learn about my background, education, and career aspirations
+
 🧠 Skills: Explore my technical and soft skills developed through academic and volunteer experiences
+
 🎓 Education & Certifications: My academic journey and professional certifications
+
 💼 Projects: A showcase of my most innovative technical and community projects
+
 🤝 Volunteer Experience: My contributions to education and community development
+
 📬 Contact: Get in touch with me for opportunities and collaborations
 
 
 💡 Featured Projects
+
+
 🔹 Kayuú - HACKATHON 2023
 Description: Innovative application developed with Power Apps to connect young people with similar interests. This platform drives collaborative innovation and facilitates community building based on shared passions and goals, created during the Microsoft 365 Hackathon.
 Technologies: Power Apps | Microsoft Platform | Collaborative Innovation
@@ -30,20 +38,36 @@ Technologies: UI/UX Design | Web Development | Student Wellness
 
 
 🧠 Skills & Competencies
+
+
 Technical Skills:
+
 Web Development: HTML5, CSS3, JavaScript
+
 Microsoft Office Suite: Advanced proficiency (MOS Excel Certified - 960/1000)
+
 Power Apps: Application development
+
 Design Tools: Basic graphic design capabilities
+
 Programming: JavaScript (ITS Certification - 920/1000)
+
 Soft Skills:
+
 Leadership & Team Management
+
 Effective Communication & Public Speaking
+
 Educational Instruction & Mentoring
+
 Creativity & Innovative Thinking
+
 Organization & Time Management
+
 Adaptability & Resilience
+
 Community Engagement
+
 
 
 
