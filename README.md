@@ -81,27 +81,43 @@ Focus on academic and personal development
 
 
 
+
 🤝 Volunteer Experience
+
+
 English Teaching Volunteer (2023-2024): Facilitated English classes at Centro Escolar Católico San Francisco de Asís and Complejo Educativo Colonia Tierra Virgen
+
 Beach Cleaning Volunteer (2025): Participated in ecological activities with ADOC Volunteers at FUNSEL Playa San Diego
+
 Community Health Sub-Director (2024): Organized educational sessions on mosquito-borne disease prevention
+
 Institutional Ornamentation Project (2025): Designed and decorated educational spaces for institutional events
 
 
 
 🗣️ Languages
+
+
 Spanish: Native Proficiency
 English: Intermediate-High Level (B2)
 
 
 
+
 📬 Contact Information
+
 📍 Location: Colonia Santa Gertrudis, La Palma, San Martín
+
 📞 Phone: (505) 7668 3608
+
 📧 Email: josueisaacsolispalacios0@gmail.com
+
 💼 LinkedIn: linkedin.com/in/josuésolís
+
 🐦 Twitter: @EnTambien
+
 📷 Instagram: @jossolis.mp3
+
 👤 Facebook: Josué Isaac Solís Palacios
 
 
